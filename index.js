@@ -30,6 +30,3 @@ function iLoveTheBeatles(num) {
 
   return arr;
 }
-
-
-
